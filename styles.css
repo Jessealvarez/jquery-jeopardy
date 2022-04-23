@@ -1,0 +1,43 @@
+body{
+    background-color: blue;
+}
+
+
+
+.col{
+    background-color: blue;
+    border-style:solid;
+    border-color:black;
+    border-width: 2px;
+    color: gold;
+    text-shadow:2px 2px black;
+    text-align: center;
+}
+
+h1 {
+    color:gold;
+    text-align: center;
+    font-family:'Bebas Neue', cursive;
+    text-shadow:2px 2px black;
+    
+    padding: 30px;
+  
+}
+
+#guess-goes-here{
+    width: 600px;
+    align-content: center;
+    
+}
+
+#question{
+   
+    background-color:blue;
+    color:white;
+    font-family:'Bebas Neue', cursive;
+    text-shadow:2px 2px black;
+    text-align: center;
+    text-decoration-style:solid;
+    font-size: 50px;
+    
+}
